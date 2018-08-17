@@ -1,0 +1,13 @@
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.csprojAssemblyReference.cache
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.Form1.resources
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.Properties.Resources.resources
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.csproj.GenerateResource.cache
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.csproj.CoreCompileInputs.cache
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\bin\Debug\PersonJSON.exe.config
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\bin\Debug\PersonJSON.exe
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\bin\Debug\PersonJSON.pdb
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.exe
+c:\users\ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.pdb
+C:\Users\Ryan\source\repos\PersonJSON\PersonJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\source\repos\PersonJSON\PersonJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\source\repos\PersonJSON\PersonJSON\obj\Debug\PersonJSON.csproj.CopyComplete
